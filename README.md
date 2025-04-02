@@ -1,8 +1,24 @@
 <h1 align="center"> Portfólio Acadêmico - Dianne Faria de Brito </h1>
 
-| <h2 align='left'>Introdução</h2> <div align='left'>Olá, me chamo Dianne, tenho 23 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. <p><p>Comecei a me interessar por tecnologia na adolescência, o que me levou a optar pelo ensino médio na ETEC Machado de Assis, juntamente com o técnico em informática. Decidi ingressar na Fatec São José dos Campos para seguir carreira na área de tecnologia, escolhi essa faculdade especialmente por ser altamente recomendada pelos meus antigos professores do ensino médio e por alunos da própria faculdade que tive a oportunidade de conhecer. Por meio da faculdade, no primeiro semestre, consegui uma vaga de estágio na área de gestão de projetos de inteligência artificial. Posteriormente, tive a oportunidade de estagiar como desenvolvedora full stack.</div> | <img src="https://github.com/user-attachments/assets/b996e4ec-49c4-4241-86df-e826b74b4799" width="1600"> |
-|---------------------|-----------|
+<table>
+<tr>
+<td>
 
+## **Introdução**
+
+Olá, me chamo Dianne, tenho 23 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. 
+
+Comecei a me interessar por tecnologia na adolescência, o que me levou a optar pelo ensino médio na ETEC Machado de Assis, juntamente com o técnico em informática. Decidi ingressar na Fatec São José dos Campos para seguir carreira na área de tecnologia, escolhi essa faculdade especialmente por ser altamente recomendada pelos meus antigos professores do ensino médio e por alunos da própria faculdade que tive a oportunidade de conhecer. Por meio da faculdade, no primeiro semestre, consegui uma vaga de estágio na área de gestão de projetos de inteligência artificial. Posteriormente, tive a oportunidade de estagiar como desenvolvedora full stack.
+<p></p>
+
+</td>
+<td>
+
+ <img src="https://github.com/user-attachments/assets/b996e4ec-49c4-4241-86df-e826b74b4799" width="1600">
+
+</td>
+</tr>
+</table>
 
 ## Contatos
  [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DianneFaria) [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianne-faria-de-brito-099b3015b)  <a href = "mailto:diannefaria09@gmail.com"><img width="62" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
