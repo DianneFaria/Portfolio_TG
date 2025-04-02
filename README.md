@@ -16,6 +16,9 @@
   |**Node.js**|**Java**|**Python**|**Django**|**MySQL**|**MongoDB**|
   |----|----|----|----|----|----|
   | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) | [![My Skills](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) |
+
+  
+
  
 ## Meus Projetos
 
@@ -38,8 +41,9 @@ Os requisitos definidos pelo cliente incluem o uso de Python, HTML e CSS, uma in
 
 |**Python**|**GitHub**|**Figma**|**Trello**|**Office**|
 |----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=trello)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=office)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/ad2634de-731c-496a-9b25-fe345b4ca372"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
 | Utilizada para hospedagem utilizando Flask | Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
+
 
 ### Contribuições pessoais
 Atuei como Scrum Master, gerenciando a equipe e organizando o fluxo de tarefas. Além disso, participei ativamente do desenvolvimento da interface do usuário, garantindo que todos os requisitos do cliente fossem atendidos e mantendo a interface informativa, simples e funcional.
