@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-## **Introdução**
+## 🎯 **Introdução**
 
 Olá, me chamo Dianne, tenho 23 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. 
 
@@ -20,10 +20,10 @@ Comecei a me interessar por tecnologia na adolescência, o que me levou a optar 
 </tr>
 </table>
 
-## Contatos
+## 📧 Contatos
  [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DianneFaria) [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianne-faria-de-brito-099b3015b)  <a href = "mailto:diannefaria09@gmail.com"><img width="62" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## Meus Principais Conhecimentos
+## 📚 Meus Principais Conhecimentos
 
  |**JavaScript**|**TypeScript**|**React**|**Next**|**HTML**|**CSS**|**Figma**|
  |----|----|----|----|----|----|----|
@@ -34,11 +34,10 @@ Comecei a me interessar por tecnologia na adolescência, o que me levou a optar 
   | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) | [![My Skills](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) |
 
   
+## 📂 Meus Projetos
 
- 
-## Meus Projetos
-
-### 2023 - 1º Semestre
+<details>
+  <summary><strong>2023 - 1º Semestre</strong></summary>
 
 **Parceiro**: Fatec São José dos Campos, representada pelo professor Antônio Egydio São Tiago Graça.
 
@@ -48,7 +47,8 @@ Os requisitos definidos pelo cliente incluem o uso de Python, HTML e CSS, uma in
 
 [Clique aqui para acessar o projeto](https://github.com/DianneFaria/Projeto-de-API-1-Semestre)
 
-### Tecnologias Utilizadas
+<details>
+   <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
 |**HTML**|**CSS**|**Flask**|**JavaScript**|**BootStrap**|
 |----|----|----|----|----|
@@ -60,15 +60,21 @@ Os requisitos definidos pelo cliente incluem o uso de Python, HTML e CSS, uma in
 | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/ad2634de-731c-496a-9b25-fe345b4ca372"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
 | Utilizada para hospedagem utilizando Flask | Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
 
+</details>
+<details>
+   <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-### Contribuições pessoais
 Atuei como Scrum Master, gerenciando a equipe e organizando o fluxo de tarefas. Além disso, participei ativamente do desenvolvimento da interface do usuário, garantindo que todos os requisitos do cliente fossem atendidos e mantendo a interface informativa, simples e funcional.
 
 Também ajudei a tornar a aplicação responsiva e auxiliei na sua hospedagem utilizando Flask. Atuei na identificação e resolução de bugs, garantindo a estabilidade do sistema.
 
 Para enriquecer o conteúdo do site, coletei uma ampla variedade de materiais de domínio público e realizei pesquisas para implementar questionários mais eficazes, aprimorando a experiência de aprendizado dos usuários.
 
-### Hard Skills
+</details>
+
+<details>
+  <summary> 📊 <strong>Hard Skills</strong></summary>
+ 
 - **HTML**: Possuo autonomia para ensinar.
 - **CSS**: Possuo autonomia para ensinar.
 - **Flask**: Realizo com auxílio.
@@ -78,10 +84,19 @@ Para enriquecer o conteúdo do site, coletei uma ampla variedade de materiais de
 - **GitHub**: Realizo com autonomia.
 - **Figma**: Possuo autonomia para ensinar.
 
-### Soft Skills
+</details>
+
+<details>
+  <summary> 🤝 <strong>Soft Skills</strong></summary>
+
 - **Comunicação**: Mantive uma comunicação constante e eficiente com a equipe, garantindo o alinhamento contínuo sobre o andamento do projeto.
 - **Gestão de tempo**: Estruturei um planejamento eficaz para assegurar a entrega de todas as tarefas dentro do prazo e com qualidade.
 - **Organização**: Distribuímos as tarefas de forma equilibrada, evitando sobrecarga e permitindo a conciliação com outras responsabilidades acadêmicas.
 - **Trabalho em equipe**: Criei um ambiente colaborativo e produtivo, facilitando a resolução de pendências e promovendo um suporte mútuo entre os integrantes do grupo.
+  
+</details>
+
+</details>
 
 ---
+
