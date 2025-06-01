@@ -45,6 +45,10 @@ O projeto foi proposto pela Fatec, representada pelo professor Antônio Egydio S
 
 Os requisitos definidos pelo cliente incluem o uso de Python, HTML e CSS, uma interface intuitiva, ausência de poluição visual e o registro de todo o processo de desenvolvimento e documentação no GitHub.
 
+O problema identificado foi a dificuldade de acesso a materiais didáticos centralizados, de fácil compreensão e com conteúdo confiável sobre Metodologias Ágeis, especialmente para iniciantes na área.
+Como solução, foi desenvolvido um site educativo que reúne, de forma clara e objetiva, os principais conceitos, práticas e exemplos das metodologias ágeis, com um questionário interativo ao final para reforçar o aprendizado do usuário.
+
+
 [Clique aqui para acessar o projeto](https://github.com/DianneFaria/Projeto-de-API-1-Semestre)
 
 <details>
@@ -64,11 +68,13 @@ Os requisitos definidos pelo cliente incluem o uso de Python, HTML e CSS, uma in
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-Atuei como Scrum Master, gerenciando a equipe e organizando o fluxo de tarefas. Além disso, participei ativamente do desenvolvimento da interface do usuário, garantindo que todos os requisitos do cliente fossem atendidos e mantendo a interface informativa, simples e funcional.
+Atuei como Scrum Master, sendo responsável por gerenciar a equipe e organizar o fluxo de tarefas ao longo do projeto. Conduzi as daily meetings (reuniões diárias), garantindo que todos os membros estivessem alinhados quanto ao progresso das atividades, aos impedimentos e às prioridades do dia. Também organizei reuniões de planning, review e retrospectiva, promovendo a melhoria contínua do time.
 
-Também ajudei a tornar a aplicação responsiva e auxiliei na sua hospedagem utilizando Flask. Atuei na identificação e resolução de bugs, garantindo a estabilidade do sistema.
+Monitorei o progresso do projeto por meio de um burndown chart, acompanhando o andamento das sprints e auxiliando na identificação de gargalos ou desvios no cronograma. Trabalhei ativamente na remoção de impedimentos que afetavam o desempenho da equipe, buscando soluções rápidas e eficazes.
 
-Para enriquecer o conteúdo do site, coletei uma ampla variedade de materiais de domínio público e realizei pesquisas para implementar questionários mais eficazes, aprimorando a experiência de aprendizado dos usuários.
+Além disso, participei ativamente do desenvolvimento da interface do usuário, assegurando que todos os requisitos definidos pelo cliente fossem atendidos, e mantendo a interface informativa, simples e funcional. Também contribuí para a responsividade da aplicação e auxiliei na sua hospedagem utilizando Flask.
+
+Atuei na identificação e correção de bugs, garantindo a estabilidade e o bom funcionamento do sistema. Para enriquecer o conteúdo do site, coletei materiais de domínio público e realizei pesquisas complementares, com o objetivo de elaborar questionários mais eficazes e interativos, aprimorando a experiência de aprendizado dos usuários.
 
 </details>
 
@@ -89,10 +95,10 @@ Para enriquecer o conteúdo do site, coletei uma ampla variedade de materiais de
 <details>
   <summary> 🤝 <strong>Soft Skills</strong></summary>
 
-- **Comunicação**: Mantive uma comunicação constante e eficiente com a equipe, garantindo o alinhamento contínuo sobre o andamento do projeto.
-- **Gestão de tempo**: Estruturei um planejamento eficaz para assegurar a entrega de todas as tarefas dentro do prazo e com qualidade.
-- **Organização**: Distribuímos as tarefas de forma equilibrada, evitando sobrecarga e permitindo a conciliação com outras responsabilidades acadêmicas.
-- **Trabalho em equipe**: Criei um ambiente colaborativo e produtivo, facilitando a resolução de pendências e promovendo um suporte mútuo entre os integrantes do grupo.
+- **Comunicação**: Mantive uma comunicação constante e eficiente com a equipe por meio de reuniões diárias e uso ativo de ferramentas como Trello e WhatsApp. Por exemplo, ao notar que um dos integrantes estava com dificuldades em uma parte do código, organizei uma call para alinhar as dúvidas e redistribuir temporariamente algumas tarefas, garantindo o progresso sem atrasos.
+- **Gestão de tempo**: Estruturei um planejamento eficaz utilizando sprints semanais e definição de prazos realistas para cada tarefa. Como exemplo, criei um cronograma no Trello com entregas parciais que permitiram revisar cada etapa antes da finalização. Isso assegurou que o conteúdo do site e o questionário fossem entregues antes do prazo final, mesmo com outras demandas acadêmicas ocorrendo paralelamente.
+- **Organização**: Distribuímos as tarefas de forma equilibrada com base nas habilidades e disponibilidade de cada membro da equipe. Um exemplo foi a separação clara entre o time de conteúdo e o time de desenvolvimento: enquanto dois colegas focavam na curadoria de materiais e elaboração dos questionários, eu e outro integrante cuidamos da implementação e testes, o que evitou sobrecarga e garantiu fluidez no trabalho.
+- **Trabalho em equipe**: Promovi um ambiente colaborativo ao incentivar a troca de conhecimento entre os membros, mesmo quando as responsabilidades eram distintas. Um exemplo marcante foi quando um colega com pouca experiência em Git estava com dificuldades para versionar o código, preparei um mini tutorial e o ajudei a configurar o ambiente, o que possibilitou que ele contribuísse com confiança no repositório do GitHub.
   
 </details>
 
