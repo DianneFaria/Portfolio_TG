@@ -153,11 +153,19 @@ Como solução, foi desenvolvido um assistente virtual capaz de ler os arquivos,
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-  Durante o desenvolvimento do projeto, exerci múltiplas funções fundamentais para seu sucesso. Atuei como Product Owner, sendo o principal ponto de contato com o cliente. Nessa função, fui responsável por compreender e traduzir as necessidades do cliente em requisitos claros e viáveis para a equipe de desenvolvimento. Mantive uma comunicação constante com o orientador e stakeholders, garantindo que as entregas estivessem alinhadas com as expectativas e que eventuais mudanças de escopo fossem tratadas com agilidade e precisão.
+- Durante o desenvolvimento do projeto, exerci múltiplas funções fundamentais para seu sucesso. Atuei como Product Owner, sendo o principal ponto de contato com o cliente. Nessa função, fui responsável por compreender e traduzir as necessidades do cliente em requisitos claros e viáveis para a equipe de desenvolvimento. Mantive uma comunicação constante com o orientador e stakeholders, garantindo que as entregas estivessem alinhadas com as expectativas e que eventuais mudanças de escopo fossem tratadas com agilidade e precisão.
 
-Além da atuação estratégica, também participei diretamente da implementação técnica do sistema, contribuindo tanto no frontend quanto no backend da aplicação. No frontend, trabalhei na construção de uma interface funcional e intuitiva, garantindo boa usabilidade na interação com o assistente virtual. No backend, desenvolvi funcionalidades essenciais, como a integração com os modelos de Processamento de Linguagem Natural (PLN), o tratamento de arquivos enviados pelo usuário (PDF e TXT) e a lógica de análise e resposta automatizada.
+- Construí classes e métodos responsáveis pela tela de perguntas e respostas.
 
-Também tive papel ativo na identificação e correção de bugs, realizando testes manuais e automatizados para assegurar a confiabilidade da aplicação. Um foco especial foi dado à verificação do desempenho do modelo de PLN, validando se ele interpretava corretamente o conteúdo dos documentos enviados e se respondia de forma coerente às perguntas feitas pelos usuários.
+- Conectei a aplicação ao banco de dados MySQL e criei as tabelas necessárias.
+
+- Criei as telas de login e cadastro, desenvolvi os métodos necessários para executação dessas telas.
+
+- Documentei toda a aplicação no GitHub do projeto.
+
+- Criei a classe e método responsáveis por adicionar o histórico ao banco de dados
+
+- Também tive papel ativo na identificação e correção de bugs. Um foco especial foi dado à verificação do desempenho do modelo de PLN, validando se ele interpretava corretamente o conteúdo dos documentos enviados e se respondia de forma coerente às perguntas feitas pelos usuários.
 
 </details>
 
