@@ -68,13 +68,23 @@ Como solução, foi desenvolvido um site educativo que reúne, de forma clara e 
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-Atuei como Scrum Master, sendo responsável por gerenciar a equipe e organizar o fluxo de tarefas ao longo do projeto. Conduzi as daily meetings (reuniões diárias), garantindo que todos os membros estivessem alinhados quanto ao progresso das atividades, aos impedimentos e às prioridades do dia. Também organizei reuniões de planning, review e retrospectiva, promovendo a melhoria contínua do time.
+- Atuei como Scrum Master, sendo responsável por gerenciar a equipe e organizar o fluxo de tarefas ao longo do projeto. Conduzi as daily meetings (reuniões diárias), garantindo que todos os membros estivessem alinhados quanto ao progresso das atividades, aos impedimentos e às prioridades do dia. Também organizei reuniões de planning, review e retrospectiva, promovendo a melhoria contínua do time.
 
-Monitorei o progresso do projeto por meio de um burndown chart, acompanhando o andamento das sprints e auxiliando na identificação de gargalos ou desvios no cronograma. Trabalhei ativamente na remoção de impedimentos que afetavam o desempenho da equipe, buscando soluções rápidas e eficazes.
+- Monitorei o progresso do projeto por meio de um burndown chart, acompanhando o andamento das sprints e auxiliando na identificação de gargalos ou desvios no cronograma. Trabalhei ativamente na remoção de impedimentos que afetavam o desempenho da equipe, buscando soluções rápidas e eficazes.
 
-Além disso, participei ativamente do desenvolvimento da interface do usuário, assegurando que todos os requisitos definidos pelo cliente fossem atendidos, e mantendo a interface informativa, simples e funcional. Também contribuí para a responsividade da aplicação e auxiliei na sua hospedagem utilizando Flask.
+- Auxiliei no desenvolvimento da documentação registrada no README.md do GitHub do projeto.
 
-Atuei na identificação e correção de bugs, garantindo a estabilidade e o bom funcionamento do sistema. Para enriquecer o conteúdo do site, coletei materiais de domínio público e realizei pesquisas complementares, com o objetivo de elaborar questionários mais eficazes e interativos, aprimorando a experiência de aprendizado dos usuários.
+- Desenvolvi o front-end de várias páginas do frontend seguindo o design definido no Figma.
+
+- Criei os questionários em JavaScript para validação do conhecimento do usuário.
+
+- Fiz o ajuste geral de padronização de cores e auxiliei no desenvolvimento do "modo escuro".
+
+- Criei um modal para a página "Quem somos".
+
+- Contribuí para a responsividade da aplicação e auxiliei na sua hospedagem utilizando Flask.
+
+- Atuei na identificação e correção de bugs, garantindo a estabilidade e o bom funcionamento do sistema. Para enriquecer o conteúdo do site, coletei materiais de domínio público e realizei pesquisas complementares, com o objetivo de elaborar questionários mais eficazes e interativos, aprimorando a experiência de aprendizado dos usuários.
 
 </details>
 
