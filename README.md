@@ -102,6 +102,12 @@ Atuei na identificação e correção de bugs, garantindo a estabilidade e o bom
   
 </details>
 
+<details>
+  <summary> 🎥 <strong>Vídeo do projeto 2023 - 1º Semestre</strong></summary>
+
+ https://github.com/user-attachments/assets/1fe0ce6a-f766-4f82-be55-7a200d456c5b
+</details>
+
 </details>
 
 ---
@@ -168,6 +174,13 @@ Durante o projeto, houve uma mudança na forma como os usuários fariam upload d
 Em uma reunião de planejamento, um colega sugeriu alterar alguns itens da interface para que facilitasse o acesso do usuário, depois de alguns testes vimos que esse novo design realmente deixava a aplicação mais eficaz e intuitiva.
   
 </details>
+
+<details>
+  <summary> 🎥 <strong>Vídeo do projeto 2023 - 2º Semestre</strong></summary>
+
+ https://github.com/user-attachments/assets/34e27c31-b695-4d36-b798-e8dc9ae1faf7
+</details>
+
 </details>
 
 ---
@@ -231,6 +244,12 @@ Realizei a modelagem do banco de dados, definindo as entidades, relacionamentos 
 - **Pensamento crítico**: Analisei os requisitos do projeto com atenção para propor melhorias viáveis e mais eficazes. Em uma das reuniões de planejamento, por exemplo, identifiquei que a forma inicial de exibir os dados no dashboard poderia gerar confusão visual. Propus um novo modelo de layout com filtros dinâmicos e agrupamento de informações, o que foi adotado e resultou em uma visualização mais clara e funcional.
 - **Comprometimento**: Mantive foco e dedicação contínua ao longo de todas as etapas, cumprindo minhas entregas com responsabilidade. Mesmo em semanas de maior carga acadêmica, mantive minha rotina de revisão de código, participei das reuniões ativamente e finalizei as funcionalidades sob minha responsabilidade.
   
+</details>
+
+<details>
+  <summary> 🎥 <strong>Vídeo do projeto 2024 - 1º Semestre</strong></summary>
+
+ https://github.com/user-attachments/assets/69b362c9-edfd-4413-a01b-0c0df8ee9261
 </details>
 </details>
 
@@ -296,6 +315,13 @@ Também realizei a modelagem do banco de dados, definindo suas entidades, relaci
   - **Colaboração interdisciplinar**: Trabalhei em funcionalidades utilizando análise de sistemas, design de interface e infraestrutura, integrando conhecimentos de forma eficiente. Um exemplo disso foi quando participei da adaptação de um layout criado no Figma para o código real, conciliando decisões de design com limitações técnicas do front-end, promovendo uma solução final coesa e funcional.
   
   </details>
+
+  <details>
+  <summary> 🎥 <strong>Vídeo do projeto 2024 - 2º Semestre</strong></summary>
+
+ https://github.com/user-attachments/assets/547da2f8-306b-4a3d-9580-b75a900d852b
+ 
+</details>
 </details>
 
 ---
@@ -359,6 +385,12 @@ Outro aspecto importante foi o suporte prestado aos colegas de equipe. Sempre qu
   - **Aprendizado contínuo**: Ao longo do desenvolvimento, busquei constantemente aprimorar meus conhecimentos em tecnologias utilizadas no projeto, como a utilizando do banco MongoDB.
   - **Relacionamento interpessoal**: Contribuí para um ambiente colaborativo ao estabelecer uma relação de confiança com os colegas, o que facilitou a troca de feedbacks construtivos. Em uma das revisões de código, por exemplo, ao receber sugestões de melhoria, demonstrei abertura ao diálogo e, posteriormente, apliquei esse mesmo cuidado ao revisar os códigos dos colegas, fortalecendo o espírito de equipe.
   
+  </details>
+
+  <details>
+  <summary> 🎥 <strong>Vídeo do projeto 2025 - 1º Semestre</strong></summary>
+
+  https://github.com/user-attachments/assets/df1af3b6-a452-4b38-95bf-447d9c58e5e0 
   </details>
 
 </details>
