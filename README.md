@@ -236,11 +236,25 @@ Como solução, foi desenvolvida uma aplicação web capaz de importar os dados 
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-  Atuei de forma ativa e colaborativa no time de desenvolvimento ao longo de todas as etapas do projeto. Contribuí na criação da interface do sistema utilizando a ferramenta Figma, auxiliando na definição de uma estrutura visual intuitiva e alinhada aos requisitos do cliente.
+- Atuei de forma ativa e colaborativa no time de desenvolvimento ao longo de todas as etapas do projeto. 
 
-No desenvolvimento do front-end, implementei as telas do sistema com foco em usabilidade, garantindo que a aplicação pudesse ser acessada de forma intuitiva. Também participei do desenvolvimento do back-end, criando rotas, controladores e integrações necessárias para o funcionamento completo da aplicação.
+- Contribuí na criação da interface do sistema utilizando a ferramenta Figma, auxiliando na definição de uma estrutura visual intuitiva e alinhada aos requisitos do cliente.
 
-Realizei a modelagem do banco de dados, definindo as entidades, relacionamentos e estruturas que permitiram o armazenamento e recuperação eficiente das informações processadas pelo sistema. Além disso, atuei de forma constante na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do software entregue.
+- Construí um backend estruturado com níveis de acesso aos usuários utilizando roles e permissions.
+
+- Fiz a tela de login e cadastro e seus respectivos métodos e funcionalidades, também colocando autenticação via token. 
+
+- Coloquei rotas privadas nas páginas acessíveis apenas ao admin.
+
+- Programei a tela de alterar senha e o método responsável por essa alteração.
+
+- Adicionei a função de fazer uploads de arquivos excel para que esses arquivos atualizem o dashboard vigente.
+
+- Auxilei no desenvolvimento da sidebar e a função de logout.
+
+- Auxiliei no desenvolvimento do CRUD de produtos e vendedores.
+
+- Atuei de forma constante na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do software entregue.
 </details>
 
 <details>
