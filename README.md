@@ -68,23 +68,27 @@ Como solução, foi desenvolvido um site educativo que reúne, de forma clara e 
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-- Atuei como Scrum Master, sendo responsável por gerenciar a equipe e organizar o fluxo de tarefas ao longo do projeto. Conduzi as daily meetings (reuniões diárias), garantindo que todos os membros estivessem alinhados quanto ao progresso das atividades, aos impedimentos e às prioridades do dia. Também organizei reuniões de planning, review e retrospectiva, promovendo a melhoria contínua do time.
+- Atuei como Scrum Master, sendo responsável por gerenciar a equipe e organizar o fluxo de trabalho ao longo do projeto. Conduzi as reuniões diárias (daily meetings), garantindo o alinhamento entre os membros da equipe quanto ao progresso das atividades, impedimentos e prioridades. Também organizei as cerimônias de planning, review e retrospectiva, promovendo a melhoria contínua dos processos e da colaboração da equipe.
 
-- Monitorei o progresso do projeto por meio de um burndown chart, acompanhando o andamento das sprints e auxiliando na identificação de gargalos ou desvios no cronograma. Trabalhei ativamente na remoção de impedimentos que afetavam o desempenho da equipe, buscando soluções rápidas e eficazes.
+- Monitorei o progresso do projeto por meio de um burndown chart, acompanhando o andamento das sprints e auxiliando na identificação de gargalos ou desvios no cronograma. Trabalhei de forma proativa na remoção de impedimentos, buscando soluções ágeis e eficazes para manter o ritmo de entrega da equipe.
 
-- Auxiliei no desenvolvimento da documentação registrada no README.md do GitHub do projeto.
+- Colaborei com a documentação técnica do projeto, contribuindo com o conteúdo registrado no README.md do repositório no GitHub.
 
-- Desenvolvi o front-end de várias páginas do frontend seguindo o design definido no Figma.
+- No desenvolvimento da aplicação, atuei na implementação do frontend de diversas páginas, seguindo fielmente o design definido no Figma.
 
-- Criei os questionários em JavaScript para validação do conhecimento do usuário.
+- Criei questionários interativos em JavaScript voltados à validação do conhecimento dos usuários.
 
-- Fiz o ajuste geral de padronização de cores e auxiliei no desenvolvimento do "modo escuro".
+- Fui responsável por ajustes de padronização de cores em toda a interface e também colaborei na implementação do modo escuro.
 
-- Criei um modal para a página "Quem somos".
+- Desenvolvi um modal personalizado para a página "Quem Somos".
 
-- Contribuí para a responsividade da aplicação e auxiliei na sua hospedagem utilizando Flask.
+- Contribuí para tornar a aplicação responsiva e adaptada a diferentes dispositivos.
 
-- Atuei na identificação e correção de bugs, garantindo a estabilidade e o bom funcionamento do sistema. Para enriquecer o conteúdo do site, coletei materiais de domínio público e realizei pesquisas complementares, com o objetivo de elaborar questionários mais eficazes e interativos, aprimorando a experiência de aprendizado dos usuários.
+- Participei da hospedagem da aplicação utilizando Flask.
+
+- Atuei ativamente na identificação e correção de bugs, assegurando a estabilidade e o bom funcionamento do sistema.
+
+- Para enriquecer a experiência do usuário, coletei materiais de domínio público e realizei pesquisas complementares com o objetivo de aprimorar o conteúdo dos questionários, tornando-os mais eficazes e interativos, elevando a qualidade do aprendizado oferecido pela aplicação.
 
 </details>
 
@@ -153,20 +157,19 @@ Como solução, foi desenvolvido um assistente virtual capaz de ler os arquivos,
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-- Durante o desenvolvimento do projeto, exerci múltiplas funções fundamentais para seu sucesso. Atuei como Product Owner, sendo o principal ponto de contato com o cliente. Nessa função, fui responsável por compreender e traduzir as necessidades do cliente em requisitos claros e viáveis para a equipe de desenvolvimento. Mantive uma comunicação constante com o orientador e stakeholders, garantindo que as entregas estivessem alinhadas com as expectativas e que eventuais mudanças de escopo fossem tratadas com agilidade e precisão.
+- Durante o desenvolvimento do projeto, exerci múltiplas funções essenciais para seu sucesso.
 
-- Construí classes e métodos responsáveis pela tela de perguntas e respostas.
+- Atuei como Product Owner, sendo o principal ponto de contato com o cliente. Nessa função, fui responsável por compreender e traduzir as necessidades do cliente em requisitos claros e viáveis para a equipe de desenvolvimento. Mantive uma comunicação constante com o orientador e os stakeholders, garantindo que as entregas estivessem alinhadas com as expectativas e que eventuais mudanças de escopo fossem tratadas com agilidade e precisão.
 
-- Conectei a aplicação ao banco de dados MySQL e criei as tabelas necessárias.
+- No âmbito técnico, desenvolvi as classes e métodos da funcionalidade de perguntas e respostas, conectei a aplicação ao banco de dados MySQL, criando as tabelas necessárias para seu funcionamento.
 
-- Criei as telas de login e cadastro, desenvolvi os métodos necessários para executação dessas telas.
+- Fui responsável pela implementação das telas de login e cadastro, incluindo o desenvolvimento dos métodos associados.
 
-- Documentei toda a aplicação no GitHub do projeto.
+- Além disso, documentei toda a aplicação no repositório do GitHub, garantindo organização, rastreabilidade e facilidade de manutenção para futuras evoluções do projeto.
 
-- Criei a classe e método responsáveis por adicionar o histórico ao banco de dados
+- Implementei também a classe e o método responsáveis por adicionar o histórico de interações ao banco de dados, contribuindo para o registro das ações dos usuários no sistema.
 
-- Também tive papel ativo na identificação e correção de bugs. Um foco especial foi dado à verificação do desempenho do modelo de PLN, validando se ele interpretava corretamente o conteúdo dos documentos enviados e se respondia de forma coerente às perguntas feitas pelos usuários.
-
+- Atuei de forma ativa na identificação e correção de bugs, com atenção especial à validação do desempenho do modelo de Processamento de Linguagem Natural (PLN), garantindo que as interpretações dos documentos enviados e as respostas geradas estivessem coerentes com as expectativas e necessidades dos usuários.
 </details>
 
 <details>
@@ -236,27 +239,25 @@ Como solução, foi desenvolvida uma aplicação web capaz de importar os dados 
 <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-- Atuei de forma ativa e colaborativa no time de desenvolvimento ao longo de todas as etapas do projeto. 
+- Atuei de forma ativa e colaborativa com a equipe de desenvolvimento em todas as etapas do projeto, contribuindo para a entrega de um sistema robusto e alinhado às necessidades do cliente.
 
-- Contribuí na criação da interface do sistema utilizando a ferramenta Figma, auxiliando na definição de uma estrutura visual intuitiva e alinhada aos requisitos do cliente.
+- Participei da criação da interface do sistema utilizando a ferramenta Figma, auxiliando na definição de uma estrutura visual intuitiva e em conformidade com os requisitos estabelecidos.
 
-- Conectei a aplicação ao banco de dados MySQL e adicionei as tabelas necessárias para o funcionamento.
+- Realizei a conexão da aplicação ao banco de dados MySQL, incluindo a criação das tabelas necessárias para seu funcionamento.
 
-- Construí um backend estruturado com níveis de acesso aos usuários utilizando roles e permissions.
+- Estruturei o backend com controle de acesso baseado em roles e permissions, garantindo a segurança e a organização do sistema.
 
-- Fiz a tela de login e cadastro e seus respectivos métodos e funcionalidades, também colocando autenticação via token. 
+- Implementei as telas de login e cadastro, juntamente com seus respectivos métodos e funcionalidades, integrando autenticação via token.
 
-- Coloquei rotas privadas nas páginas acessíveis apenas ao admin.
+- Configurei rotas privadas para restringir o acesso a determinadas páginas apenas a administradores.
 
-- Programei a tela de alterar senha e o método responsável por essa alteração.
+- Desenvolvi a tela de alteração de senha e o método responsável por esse processo.
 
-- Adicionei a função de fazer uploads de arquivos excel para que esses arquivos atualizem o dashboard vigente.
+- Também adicionei a funcionalidade de upload de arquivos Excel, permitindo a atualização automática do dashboard com os dados importados.
 
-- Auxilei no desenvolvimento da sidebar e a função de logout.
+- Colaborei no desenvolvimento da sidebar e da funcionalidade de logout, bem como no CRUD de produtos e vendedores, ampliando as capacidades de gerenciamento do sistema.
 
-- Auxiliei no desenvolvimento do CRUD de produtos e vendedores.
-
-- Atuei de forma constante na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do software entregue.
+- Durante todo o projeto, atuei de forma constante na identificação e correção de bugs, contribuindo diretamente para a estabilidade, segurança e qualidade do software entregue.
 </details>
 
 <details>
@@ -322,25 +323,25 @@ Como solução, foi desenvolvido um sistema web personalizado que automatiza o c
    <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-- Auxiliei na definição e construção do layout da aplicação no Figma, colaborando com a criação de uma interface visual que atendesse aos critérios de usabilidade, clareza e identidade solicitados pela empresa.
+- Durante o desenvolvimento do projeto, contribui de forma significativa em diversas frentes, tanto no frontend quanto no backend.
 
-- Conectei a aplicação ao banco de dados MySQL e adicionei as tabelas necessárias para o funcionamento.
+- Participei ativamente da definição e construção do layout da aplicação no Figma, colaborando na criação de uma interface visual alinhada aos critérios de usabilidade, clareza e identidade visual exigidos pela empresa.
 
-- Construí um backend estruturado com níveis de acesso aos usuários utilizando roles e permissions.
+- Fui responsável pela conexão da aplicação ao banco de dados MySQL, incluindo a criação das tabelas necessárias para seu funcionamento.
+- 
+- Estruturei o backend com um sistema de controle de acesso baseado em roles e permissions, garantindo níveis de permissão adequados para diferentes perfis de usuário.
 
-- Fiz a tela de login e cadastro e seus respectivos métodos e funcionalidades, também colocando autenticação via token. 
+- Implementei as telas de login e cadastro, com suas respectivas funcionalidades e autenticação via token.
 
-- Coloquei rotas privadas nas páginas acessíveis apenas ao admin.
+- Também desenvolvi o controle de rotas privadas, restringindo o acesso de determinadas páginas apenas para administradores.
 
-- Auxilei no desenvolvimento da tela de login e de acompanhamento de entregas.
+- Contribuí no desenvolvimento das telas de login e acompanhamento de entregas, além de atuar na construção completa do portal do funcionário, integrando frontend e backend.
 
-- Atuei no frontend e backend do portal do funcionário.
+- Implementei a tela de acompanhamento de etapas com os métodos correspondentes, incluindo restrições de acesso exclusivas para administradores, permitindo o controle de avanço e retorno nas etapas quando necessário.
 
-- Construí a tela de acompanhamento de etapas e os métodos referentes, também barrei essa rota somente para o acesso do admin para que ele tenha o poder de voltar etapas, caso necessário.
+- Adicionei a funcionalidade de inclusão de pedidos para os clientes.
 
-- Adicionei o método para adicionar o pedido ao cliente.
-
-- Atuei na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do produto final.
+- Ao longo de todo o desenvolvimento, atuei na identificação e correção de bugs, assegurando a estabilidade, segurança e qualidade da aplicação.
   </details>
 
   <details>
@@ -406,11 +407,18 @@ Durante o desenvolvimento, foram produzidos documentos essenciais como o manual 
     <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-   Durante o desenvolvimento do projeto, atuei de forma ativa e multifuncional em diversas etapas da aplicação. Contribuí tanto no frontend quanto no backend, implementando funcionalidades essenciais para o funcionamento do sistema, além de garantir a integração eficiente entre as camadas da aplicação.
+- Durante o desenvolvimento do projeto, atuei de forma ativa e multifuncional em diversas etapas da aplicação, contribuindo significativamente para sua qualidade e estabilidade.
 
-Além das tarefas técnicas, participei ativamente das discussões de melhoria contínua do projeto, sugerindo ajustes e aprimoramentos na usabilidade e na arquitetura da aplicação. Realizei correções de bugs identificados ao longo do desenvolvimento, o que contribuiu diretamente para a estabilidade e qualidade do produto final.
+- Participei da identificação e correção de bugs ao longo do processo, promovendo melhorias contínuas no produto final.
 
-Outro aspecto importante foi o suporte prestado aos colegas de equipe. Sempre que surgiam dúvidas ou dificuldades, estive disponível para auxiliar, promovendo um ambiente colaborativo e produtivo. Essa postura colaborativa fortaleceu o trabalho em equipe e contribuiu para o avanço constante do projeto, respeitando os prazos e objetivos definidos.
+- Fui responsável pelo desenvolvimento da tela de registro de despesas, bem como pela implementação do backend necessário para seu funcionamento.
+
+- Também atuei na definição e padronização da paleta de cores da aplicação, garantindo consistência visual.
+
+- Desenvolvi a barra de progresso total exibida na página inicial, além de implementar, na tela de registro de despesas, barras de progresso específicas para cada projeto, respeitando os filtros aplicados.
+
+- Por fim, destaco o suporte prestado aos colegas de equipe como uma contribuição relevante, promovendo a colaboração e a resolução conjunta de desafios técnicos.
+
   </details>
 
   <details>
