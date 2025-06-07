@@ -328,7 +328,7 @@ Como solução, foi desenvolvido um sistema web personalizado que automatiza o c
 - Participei ativamente da definição e construção do layout da aplicação no Figma, colaborando na criação de uma interface visual alinhada aos critérios de usabilidade, clareza e identidade visual exigidos pela empresa.
 
 - Fui responsável pela conexão da aplicação ao banco de dados MySQL, incluindo a criação das tabelas necessárias para seu funcionamento.
-- 
+  
 - Estruturei o backend com um sistema de controle de acesso baseado em roles e permissions, garantindo níveis de permissão adequados para diferentes perfis de usuário.
 
 - Implementei as telas de login e cadastro, com suas respectivas funcionalidades e autenticação via token.
