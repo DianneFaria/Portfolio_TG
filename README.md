@@ -240,6 +240,8 @@ Como solução, foi desenvolvida uma aplicação web capaz de importar os dados 
 
 - Contribuí na criação da interface do sistema utilizando a ferramenta Figma, auxiliando na definição de uma estrutura visual intuitiva e alinhada aos requisitos do cliente.
 
+- Conectei a aplicação ao banco de dados MySQL e adicionei as tabelas necessárias para o funcionamento.
+
 - Construí um backend estruturado com níveis de acesso aos usuários utilizando roles e permissions.
 
 - Fiz a tela de login e cadastro e seus respectivos métodos e funcionalidades, também colocando autenticação via token. 
@@ -320,11 +322,25 @@ Como solução, foi desenvolvido um sistema web personalizado que automatiza o c
    <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-Durante o desenvolvimento do sistema proposto, atuei de forma ativa no time de desenvolvimento, contribuindo em diversas frentes técnicas do projeto. Auxiliei na definição e construção do layout da aplicação, colaborando com a criação de uma interface visual que atendesse aos critérios de usabilidade, clareza e identidade solicitados pela empresa.
+- Auxiliei na definição e construção do layout da aplicação no Figma, colaborando com a criação de uma interface visual que atendesse aos critérios de usabilidade, clareza e identidade solicitados pela empresa.
 
-No front-end, implementei funcionalidades interativas que garantiram a boa experiência do usuário, respeitando os fluxos definidos durante a fase de análise. No back-end, fui responsável pelo desenvolvimento de funcionalidades essenciais à lógica do sistema, incluindo rotas, validações e integrações com o banco de dados.
+- Conectei a aplicação ao banco de dados MySQL e adicionei as tabelas necessárias para o funcionamento.
 
-Também realizei a modelagem do banco de dados, definindo suas entidades, relacionamentos e estrutura de forma a atender às regras de negócio específicas da empresa, garantindo a consistência e o bom desempenho do sistema. Além disso, atuei na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do produto final.
+- Construí um backend estruturado com níveis de acesso aos usuários utilizando roles e permissions.
+
+- Fiz a tela de login e cadastro e seus respectivos métodos e funcionalidades, também colocando autenticação via token. 
+
+- Coloquei rotas privadas nas páginas acessíveis apenas ao admin.
+
+- Auxilei no desenvolvimento da tela de login e de acompanhamento de entregas.
+
+- Atuei no frontend e backend do portal do funcionário.
+
+- Construí a tela de acompanhamento de etapas e os métodos referentes, também barrei essa rota somente para o acesso do admin para que ele tenha o poder de voltar etapas, caso necessário.
+
+- Adicionei o método para adicionar o pedido ao cliente.
+
+- Atuei na identificação e correção de bugs ao longo do desenvolvimento, assegurando a estabilidade e qualidade do produto final.
   </details>
 
   <details>
