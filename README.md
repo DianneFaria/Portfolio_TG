@@ -475,15 +475,17 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
    <details>
    <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
-   |**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|**Google ADK**|
+|**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|**Google ADK**|
 |----|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/2bde187a-1336-478b-a55f-17d79970c546"> | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> |
 | Linguagem utilizada para construir o front-end | Linguagem utilizada para construir o front-end | Framework utilizado para construir o front-end | Ambiente de execução para o back-end | Banco de dados não relacional orientado a documentos |  Linguagem utilizada para construir o front-end |
+
 
 |**LangChain**|**Gemini**|**Vue**|**JavaScript**|**Postgres**|**ChromaDB**|
 |----|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
-| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
+| <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img width="60" src="https://github.com/user-attachments/assets/add9126c-aa6a-448f-9e10-87946710eb58"> |
+| Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário | Utilizado para a implementação da lógica de interação no front-end, proporcionando dinamismo e fluidez na comunicação entre o usuário e o sistema | Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações dos usuários, planos alimentares e históricos de interação | Utilizado para construir a apresentação para o cliente |
+
 
 |**GitHub**|**Figma**|**Jira**|**Office**|
 |----|----|----|----|
