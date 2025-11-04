@@ -6,7 +6,7 @@
 
 ## 🎯 **Introdução**
 
-Olá, me chamo Dianne, tenho 23 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. 
+Olá, me chamo Dianne, tenho 24 anos e atualmente estou cursando o 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos – Prof. Jessen Vidal. 
 
 Comecei a me interessar por tecnologia na adolescência, o que me levou a optar pelo ensino médio na ETEC Machado de Assis, juntamente com o técnico em informática. Decidi ingressar na Fatec São José dos Campos para seguir carreira na área de tecnologia, escolhi essa faculdade especialmente por ser altamente recomendada pelos meus antigos professores do ensino médio e por alunos da própria faculdade que tive a oportunidade de conhecer. Por meio da faculdade, no primeiro semestre, consegui uma vaga de estágio na área de gestão de projetos de inteligência artificial na empresa Woopi Stefanini. Posteriormente, tive a oportunidade de estagiar como desenvolvedora full stack na Worked. No entanto, o software foi vendido e a empresa encerrou suas atividades. Atualmente, estagio como desenvolvedora full stack na Visiona Tecnologia Espacial.
 <p></p>
@@ -25,9 +25,9 @@ Comecei a me interessar por tecnologia na adolescência, o que me levou a optar 
 
 ## 📚 Meus Principais Conhecimentos
 
- |**JavaScript**|**TypeScript**|**React**|**Next**|**HTML**|**CSS**|**Figma**|
+ |**JavaScript**|**TypeScript**|**React**|**Vue**|**HTML**|**CSS**|**Figma**|
  |----|----|----|----|----|----|----|
- | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
+ | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
 
   |**Node.js**|**Java**|**Python**|**Django**|**MySQL**|**MongoDB**|
   |----|----|----|----|----|----|
@@ -386,7 +386,7 @@ O problema identificado estava na realização manual dos reembolsos, feita por 
 
 Como solução, foi desenvolvido um aplicativo móvel que centraliza o processo de solicitação de reembolsos em uma única plataforma digital. O sistema permite que o usuário registre as despesas informando o tipo, a data, o valor ou quantidade, além de anexar os comprovantes e inserir uma descrição para cada item. Para reforçar o controle orçamentário, o sistema emite um alerta caso o valor da despesa ultrapasse o limite permitido. Também é possível acompanhar, em tempo real, o status de aprovação das solicitações de reembolso, garantindo maior transparência e previsibilidade ao processo.
 
-Durante o desenvolvimento, foram produzidos documentos essenciais como o manual do usuário, a documentação da API (Application Programming Interface) publicada no GitHub e a modelagem do banco de dados, assegurando a organização e integridade das informações. O projeto contribui significativamente para a digitalização e otimização da rotina administrativa da empresa, promovendo eficiência e controle nos processos de reembolso.
+Durante o desenvolvimento, foram produzidos documentos essenciais como o manual do usuário, a documentação da API publicada no GitHub e a modelagem do banco de dados, assegurando a organização e integridade das informações. O projeto contribui significativamente para a digitalização e otimização da rotina administrativa da empresa, promovendo eficiência e controle nos processos de reembolso.
 
    [Clique aqui para acessar o projeto](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
 
@@ -452,4 +452,84 @@ Durante o desenvolvimento, foram produzidos documentos essenciais como o manual 
 </details>
 
 ---
+
+<details>
+  <summary><strong>2025 - 2º Semestre</strong></summary>
+
+   **Parceiro**: Empresa Xertica, oferece serviços de inteligência artifical, localizada em São Paulo.
+
+   A empresa Xertica, especializada em soluções de Inteligência Artificial, propôs o desafio de desenvolver um agente conversacional inteligente voltado para oferecer suporte nutricional personalizado e acessível. 
+   
+O problema identificado está relacionado à dificuldade e ao alto custo do acesso a um acompanhamento nutricional individualizado, que muitas vezes impede que grande parte da população mantenha uma rotina alimentar saudável e adequada às suas necessidades.
+
+Como resposta a esse desafio, foi desenvolvido o NutriMind, um agente conversacional inteligente capaz de realizar uma anamnese interativa, possibilitanto ao usuário fornecer informações sobre seu perfil, objetivos e hábitos alimentares, permitindo gerar planos alimentares personalizados e recomendações de saúde adaptadas ao perfil de cada pessoa. A plataforma oferece uma base de conhecimento abrangente sobre nutrição e alimentos, possibilitando ao usuário sanar dúvidas, solicitar receitas e consultar informações nutricionais detalhadas sobre os alimentos.
+
+O principal objetivo do projeto é combinar a eficiência e o poder de análise da Inteligência Artificial com a confiabilidade da supervisão profissional, garantindo um suporte nutricional seguro, acessível e verdadeiramente personalizado. Dessa forma, o NutriMind visa democratizar o acesso a orientações nutricionais de qualidade, promovendo saúde e bem-estar de forma prática e inovadora.
+
+Durante o desenvolvimento, foram empregadas diversas tecnologias e ferramentas que viabilizaram a implementação do sistema, entre elas: Jira, Figma, Java, Spring Boot, Maven, Swagger, Python, Flask, Google ADK, Vue.js, JavaScript, GitHub, PostgreSQL, ChromaDB e Microsoft Office.
+
+Além disso, foram produzidos documentos técnicos essenciais, como o manual do usuário, a documentação da API publicada no GitHub e a modelagem do banco de dados, assegurando a organização, integridade e rastreabilidade das informações. O projeto NutriMind contribui significativamente para a digitalização e otimização do acompanhamento nutricional, promovendo eficiência, acessibilidade e inovação tecnológica na oferta de suporte personalizado em nutrição.
+
+   [Clique aqui para acessar o projeto](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
+
+   <details>
+   <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
+
+   |**TypeScript**|**JavaScript**|**Expo**|**Node**|**MongoDB**|
+|----|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/2bde187a-1336-478b-a55f-17d79970c546"> | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) |
+| Linguagem utilizada para construir o front-end | Linguagem utilizada para construir o front-end | Framework utilizado para construir o front-end | Ambiente de execução para o back-end | Banco de dados não relacional orientado a documentos |
+
+|**GitHub**|**Figma**|**Jira**|**Office**|**Android Studio**|
+|----|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |  <img width="48" src="https://github.com/user-attachments/assets/e480e354-fad9-4741-aaff-2ba3d3955ae8"> |
+| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente | Ambiente de desenvolvimento para criar aplicativos móveis |
+
+   </details>
+    <details>
+   <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
+
+- Durante o desenvolvimento do projeto, atuei de forma ativa e multifuncional em diversas etapas da aplicação, contribuindo significativamente para sua qualidade e estabilidade.
+
+- Participei da identificação e correção de bugs ao longo do processo, promovendo melhorias contínuas no produto final.
+
+- Fui responsável pelo desenvolvimento da tela de registro de despesas, bem como pela implementação do backend necessário para seu funcionamento.
+
+- Também atuei na definição e padronização da paleta de cores da aplicação, garantindo consistência visual.
+
+- Desenvolvi a barra de progresso total exibida na página inicial, além de implementar, na tela de registro de despesas, barras de progresso específicas para cada projeto, respeitando os filtros aplicados.
+
+- Por fim, destaco o suporte prestado aos colegas de equipe como uma contribuição relevante, promovendo a colaboração e a resolução conjunta de desafios técnicos.
+
+  </details>
+
+  <details>
+    <summary> 📊 <strong>Hard Skills</strong></summary>
+
+  - **TypeScript**: Realizo com autonomia.
+  - **JavaScript**: Realizo com autonomia.
+  - **Expo**: Realizo com autonomia.
+  - **Node**: Realizo com autonomia.
+  - **MongoDB**: Realizo com autonomia.
+  - **GitHub**: Realizo com autonomia.
+  - **Figma**: Possuo autonomia para ensinar.
+  </details>
+
+  <details>
+    <summary> 🤝 <strong>Soft Skills</strong></summary>
+
+  - **Criatividade**: Durante o desenvolvimento do projeto, propus soluções inovadoras, como a criação de um sistema de alertas automáticos para controle de valores fora do orçamento permitido com uma interface clara indicando o limite de valor. Essa ideia, que não estava inicialmente prevista nos requisitos, foi bem recebida pela equipe e aumentou a eficiência no controle de despesas, agregando originalidade à solução proposta.
+  - **Foco em resultados**: Mantive o objetivo final sempre em vista, especialmente nos momentos de redefinição de prioridades. Por exemplo, mesmo diante de prazos apertados e ajustes no escopo, concentrei meus esforços em funcionalidades essenciais, garantindo a entrega de um produto funcional e alinhado às necessidades do cliente.
+  - **Aprendizado contínuo**: Ao longo do desenvolvimento, busquei constantemente aprimorar meus conhecimentos em tecnologias utilizadas no projeto, como a utilizando do banco MongoDB.
+  - **Relacionamento interpessoal**: Contribuí para um ambiente colaborativo ao estabelecer uma relação de confiança com os colegas, o que facilitou a troca de feedbacks construtivos. Em uma das revisões de código, por exemplo, ao receber sugestões de melhoria, demonstrei abertura ao diálogo e, posteriormente, apliquei esse mesmo cuidado ao revisar os códigos dos colegas, fortalecendo o espírito de equipe.
+  
+  </details>
+
+  <details>
+  <summary> 🎥 <strong>Vídeo do projeto 2025 - 2º Semestre</strong></summary>
+
+  https://github.com/user-attachments/assets/df1af3b6-a452-4b38-95bf-447d9c58e5e0 
+  </details>
+
+</details>
 
