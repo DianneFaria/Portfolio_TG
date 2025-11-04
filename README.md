@@ -466,7 +466,7 @@ Como resposta a esse desafio, foi desenvolvido o NutriMind, um agente conversaci
 
 O principal objetivo do projeto é combinar a eficiência e o poder de análise da Inteligência Artificial com a confiabilidade da supervisão profissional, garantindo um suporte nutricional seguro, acessível e verdadeiramente personalizado. Dessa forma, o NutriMind visa democratizar o acesso a orientações nutricionais de qualidade, promovendo saúde e bem-estar de forma prática e inovadora.
 
-Durante o desenvolvimento, foram empregadas diversas tecnologias e ferramentas que viabilizaram a implementação do sistema, entre elas: Jira, Figma, Java, Spring Boot, Maven, Swagger, Python, Flask, Google ADK, Vue.js, JavaScript, GitHub, PostgreSQL, ChromaDB e Microsoft Office.
+Durante o desenvolvimento, foram empregadas diversas tecnologias e ferramentas que viabilizaram a implementação do sistema, entre elas: Jira, Figma, Java, Spring Boot, Maven, Swagger, Python, Flask, Google ADK, LangChain, Gemini, Vue.js, JavaScript, GitHub, PostgreSQL, ChromaDB e Microsoft Office.
 
 Além disso, foram produzidos documentos técnicos essenciais, como o manual do usuário, a documentação da API publicada no GitHub e a modelagem do banco de dados, assegurando a organização, integridade e rastreabilidade das informações. O projeto NutriMind contribui significativamente para a digitalização e otimização do acompanhamento nutricional, promovendo eficiência, acessibilidade e inovação tecnológica na oferta de suporte personalizado em nutrição.
 
@@ -475,15 +475,20 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
    <details>
    <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
-   |**TypeScript**|**JavaScript**|**Expo**|**Node**|**MongoDB**|
-|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/2bde187a-1336-478b-a55f-17d79970c546"> | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) |
-| Linguagem utilizada para construir o front-end | Linguagem utilizada para construir o front-end | Framework utilizado para construir o front-end | Ambiente de execução para o back-end | Banco de dados não relacional orientado a documentos |
+   |**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|**Google ADK**|
+|----|----|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/2bde187a-1336-478b-a55f-17d79970c546"> | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) |
+| Linguagem utilizada para construir o front-end | Linguagem utilizada para construir o front-end | Framework utilizado para construir o front-end | Ambiente de execução para o back-end | Banco de dados não relacional orientado a documentos |  Linguagem utilizada para construir o front-end |
 
-|**GitHub**|**Figma**|**Jira**|**Office**|**Android Studio**|
-|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |  <img width="48" src="https://github.com/user-attachments/assets/e480e354-fad9-4741-aaff-2ba3d3955ae8"> |
-| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente | Ambiente de desenvolvimento para criar aplicativos móveis |
+|**LangChain**|**Gemini**|**Vue**|**JavaScript**|**Postgres**|**ChromaDB**|
+|----|----|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
+| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
+
+|**GitHub**|**Figma**|**Jira**|**Office**|
+|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
+| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
 
    </details>
     <details>
