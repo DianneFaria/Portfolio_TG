@@ -557,7 +557,7 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
   <details>
   <summary> 🎥 <strong>Vídeo do projeto 2025 - 2º Semestre</strong></summary>
 
-  https://github.com/user-attachments/assets/df1af3b6-a452-4b38-95bf-447d9c58e5e0 
+ [Link para o vídeo da Sprint 2](https://www.youtube.com/watch?v=qmvJvD6KgAY) 
   </details>
 
 </details>
