@@ -475,60 +475,82 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
    <details>
    <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
-|**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|**Google ADK**|
+|**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|
+|----|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) |
+| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Ferramenta utilizada na gestão de dependências e no processo de build do projeto Java | Utilizado para documentar e testar os endpoints da API | Linguagem empregada para o desenvolvimento de módulos de inteligência artificial e processamento de dados relacionados à nutrição | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java |
+
+
+|**Google ADK**|**LangChain**|**Gemini**|**Vue**|**JavaScript**|
+|----|----|----|----|----|
+| <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> | <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+|  Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural | Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário | Utilizado para a implementação da lógica de interação no front-end, proporcionando dinamismo e fluidez na comunicação entre o usuário e o sistema |
+
+
+|**Postgres**|**ChromaDB**|**GitHub**|**Figma**|**Jira**|**Office**|
 |----|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> |
-| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Ferramenta utilizada na gestão de dependências e no processo de build do projeto Java | Utilizado para documentar e testar os endpoints da API | Linguagem empregada para o desenvolvimento de módulos de inteligência artificial e processamento de dados relacionados à nutrição | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java |  Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural |
-
-
-|**Google ADK**|**LangChain**|**Gemini**|**Vue**|**JavaScript**|**Postgres**|**ChromaDB**|
-|----|----|----|----|----|----|
-| <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img width="60" src="https://github.com/user-attachments/assets/add9126c-aa6a-448f-9e10-87946710eb58"> |
-| Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário | Utilizado para a implementação da lógica de interação no front-end, proporcionando dinamismo e fluidez na comunicação entre o usuário e o sistema | Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações dos usuários, planos alimentares e históricos de interação | Utilizado para armazenamento vetorial e recuperação semântica de informações, permitindo buscas inteligentes dentro da base de conhecimento nutricional |
-
-
-|**GitHub**|**Figma**|**Jira**|**Office**|
-|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
-| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
+| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img width="60" src="https://github.com/user-attachments/assets/add9126c-aa6a-448f-9e10-87946710eb58"> | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
+| Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações dos usuários, planos alimentares e históricos de interação | Utilizado para armazenamento vetorial e recuperação semântica de informações, permitindo buscas inteligentes dentro da base de conhecimento nutricional | Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
 
    </details>
     <details>
    <summary>🌟 <strong>Contribuições Pessoais</strong></summary>
 
-- Durante o desenvolvimento do projeto, atuei de forma ativa e multifuncional em diversas etapas da aplicação, contribuindo significativamente para sua qualidade e estabilidade.
+- Atuei na definição, estruturação e modelagem das tabelas do backend, bem como no estabelecimento dos relacionamentos lógicos necessários para suportar as regras de negócio do agente nutricional.
+- Desenvolvi a interface de coleta de dados de anamnese, implementando fluxos, validações e usabilidade alinhada ao objetivo do projeto.
 
-- Participei da identificação e correção de bugs ao longo do processo, promovendo melhorias contínuas no produto final.
+- Participei do desenvolvimento da interface do chat de interação com a IA, contribuindo para a experiência de uso e integração com o backend.
 
-- Fui responsável pelo desenvolvimento da tela de registro de despesas, bem como pela implementação do backend necessário para seu funcionamento.
+- Desenvolvi a tela de troca de senha dentro da aplicação, considerando aspectos de segurança, experiência do usuário e consistência visual.
 
-- Também atuei na definição e padronização da paleta de cores da aplicação, garantindo consistência visual.
+- Participei dos ajustes visuais e funcionais na interface de login conforme as solicitações do cliente.
 
-- Desenvolvi a barra de progresso total exibida na página inicial, além de implementar, na tela de registro de despesas, barras de progresso específicas para cada projeto, respeitando os filtros aplicados.
+- Desenvolvi o serviço responsável pela alteração de senha dentro da aplicação, permitindo que usuários atualizem suas credenciais com segurança.
 
-- Por fim, destaco o suporte prestado aos colegas de equipe como uma contribuição relevante, promovendo a colaboração e a resolução conjunta de desafios técnicos.
+   Implementei no fluxo de login a coleta do e-mail do usuário caso ele tenha esquecido a senha.
+
+- Atuei no desenvolvimento do serviço de envio de e-mail para recuperação de senha, integrando lógica de autenticação e mensageria.
+
+- Desenvolvi um serviço em Java acionado pelas tools da IA para processar, validar e persistir alterações informadas pelo usuário referentes à anamnese.
+
+- Desenvolvi um agente de IA especializado em lidar com informações de alteração de anamnese fornecidas pelo usuário no chat.
+
+- Criei tools que acessam métodos do backend em Java para executar atualizações no banco de dados em resposta às solicitações processadas pela IA.
+
+- Atuei na correção de bugs e na melhoria contínua da aplicação, garantindo estabilidade, confiabilidade e alinhamento com as expectativas do cliente.
+
+- Por fim, destaco que atuei também no suporte aos colegas de equipe, colaborando ativamente na resolução conjunta de desafios técnicos, buscando novas informações e explorando diferentes abordagens para aprimorar continuamente as soluções desenvolvidas.
 
   </details>
 
   <details>
     <summary> 📊 <strong>Hard Skills</strong></summary>
 
-  - **TypeScript**: Realizo com autonomia.
+  - **Spring Boot**: Possuo autonomia para ensinar.
+  - **Maven**: Realizo com autonomia.
+  - **Python**: Realizo com autonomia.
+  - **Flask**: Realizo com autonomia.
+  - **Google ADK**: Realizo com autonomia.
+  - **LangChain**: Realizo com autonomia.
+  - **Gemini**: Realizo com autonomia.
+  - **Vue**: Possuo autonomia para ensinar.
   - **JavaScript**: Realizo com autonomia.
-  - **Expo**: Realizo com autonomia.
-  - **Node**: Realizo com autonomia.
-  - **MongoDB**: Realizo com autonomia.
+  - **Postgres**: Realizo com autonomia.
+  - **ChromaDB**: Realizo com autonomia.
   - **GitHub**: Realizo com autonomia.
   - **Figma**: Possuo autonomia para ensinar.
   </details>
 
   <details>
     <summary> 🤝 <strong>Soft Skills</strong></summary>
+   
+  - **Criatividade**: No desenvolvimento das integrações com a IA, precisei elaborar soluções criativas para garantir que as tools enviassem as informações corretas ao backend em Java. Esse processo exigiu não apenas lógica e atenção aos requisitos, mas também a criação de abordagens alternativas para estruturar dados e fluxos de chamada. Além disso, desenvolvi prompts cuidadosamente pensados para evitar interpretações equivocadas pela IA, testando diferentes variações até alcançar respostas consistentes e alinhadas às necessidades do projeto.
 
-  - **Criatividade**: Durante o desenvolvimento do projeto, propus soluções inovadoras, como a criação de um sistema de alertas automáticos para controle de valores fora do orçamento permitido com uma interface clara indicando o limite de valor. Essa ideia, que não estava inicialmente prevista nos requisitos, foi bem recebida pela equipe e aumentou a eficiência no controle de despesas, agregando originalidade à solução proposta.
-  - **Foco em resultados**: Mantive o objetivo final sempre em vista, especialmente nos momentos de redefinição de prioridades. Por exemplo, mesmo diante de prazos apertados e ajustes no escopo, concentrei meus esforços em funcionalidades essenciais, garantindo a entrega de um produto funcional e alinhado às necessidades do cliente.
-  - **Aprendizado contínuo**: Ao longo do desenvolvimento, busquei constantemente aprimorar meus conhecimentos em tecnologias utilizadas no projeto, como a utilizando do banco MongoDB.
-  - **Relacionamento interpessoal**: Contribuí para um ambiente colaborativo ao estabelecer uma relação de confiança com os colegas, o que facilitou a troca de feedbacks construtivos. Em uma das revisões de código, por exemplo, ao receber sugestões de melhoria, demonstrei abertura ao diálogo e, posteriormente, apliquei esse mesmo cuidado ao revisar os códigos dos colegas, fortalecendo o espírito de equipe.
+  - **Controle de tempo**: O volume expressivo de entregas exigiram uma gestão rigorosa do meu tempo. Estruturei meu próprio regimento de execução, organizando tarefas em etapas priorizadas e definindo marcos internos para garantir fluidez nas entregas. Essa disciplina permitiu que todas as funcionalidades sob minha responsabilidade fossem concluídas dentro dos prazos estabelecidos, evitando atrasos e contribuindo para o ritmo sustentável do projeto como um todo.
+
+  - **Proatividade**: Em diversos momentos, enfrentei desafios técnicos que exigiram investigação aprofundada. Atuei de maneira proativa ao realizar extensas pesquisas para identificar as abordagens corretas, modernas e eficientes de implementação, seja nas integrações com IA, na estrutura de backend em Java ou na modelagem dos fluxos de autenticação.
+
+  - **Trabalho em grupo**: Mantive um relacionamento aberto, comunicativo e orientado à cooperação com os colegas de equipe, participando ativamente das discussões técnicas e oferecendo suporte sempre que necessário. Essa postura contribuiu para a resolução coletiva de desafios, fortaleceu o alinhamento interno e garantiu que todos avançassem de forma organizada e integrada.
   
   </details>
 
