@@ -475,16 +475,16 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
    <details>
    <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
-|**Spring Boot**|**Maven**|**Swagger**|**Python**|**Flask**|
-|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=maven)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) |
-| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Ferramenta utilizada na gestão de dependências e no processo de build do projeto Java | Utilizado para documentar e testar os endpoints da API | Linguagem empregada para o desenvolvimento de módulos de inteligência artificial e processamento de dados relacionados à nutrição | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java |
+|**Spring Boot**|**Swagger**|**Flask**|
+|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) |
+| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Utilizado para documentar e testar os endpoints da API | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java |
 
 
-|**Google ADK**|**LangChain**|**Gemini**|**Vue**|**JavaScript**|
-|----|----|----|----|----|
-| <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> | <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
-|  Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural | Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário | Utilizado para a implementação da lógica de interação no front-end, proporcionando dinamismo e fluidez na comunicação entre o usuário e o sistema |
+|**Google ADK**|**LangChain**|**Gemini**|**Vue**|
+|----|----|----|----|
+| <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> | <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) |
+|  Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural | Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário |
 
 
 |**Postgres**|**ChromaDB**|**GitHub**|**Figma**|**Jira**|**Office**|
@@ -527,14 +527,11 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
     <summary> 📊 <strong>Hard Skills</strong></summary>
 
   - **Spring Boot**: Possuo autonomia para ensinar.
-  - **Maven**: Realizo com autonomia.
-  - **Python**: Realizo com autonomia.
   - **Flask**: Realizo com autonomia.
   - **Google ADK**: Realizo com autonomia.
   - **LangChain**: Realizo com autonomia.
   - **Gemini**: Realizo com autonomia.
-  - **Vue**: Realizo com autonomia.
-  - **JavaScript**: Realizo com autonomia.
+  - **Vue**: Possuo autonomia para ensinar.
   - **Postgres**: Realizo com autonomia.
   - **ChromaDB**: Realizo com autonomia.
   - **GitHub**: Realizo com autonomia.
