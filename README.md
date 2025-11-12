@@ -265,10 +265,10 @@ Como solução, foi desenvolvida uma aplicação web capaz de importar os dados 
 
 - **TypeScript**: Realizo com autonomia.
 - **JavaScript**: Realizo com autonomia.
-- **React**: Realizo com autonomia.
-- **Node**: Realizo com autonomia.
+- **React**: Possuo autonomia para ensinar.
+- **Node**: Possuo autonomia para ensinar.
 - **MySQL**: Realizo com autonomia.
-- **GitHub**: Realizo com autonomia.
+- **GitHub**: Possuo autonomia para ensinar.
 - **Figma**: Possuo autonomia para ensinar.
 </details>
 
@@ -349,10 +349,10 @@ Como solução, foi desenvolvido um sistema web personalizado que automatiza o c
 
   - **TypeScript**: Realizo com autonomia.
   - **JavaScript**: Realizo com autonomia.
-  - **React**: Realizo com autonomia.
-  - **Node**: Realizo com autonomia.
+  - **React**: Possuo autonomia para ensinar.
+  - **Node**: Possuo autonomia para ensinar.
   - **MySQL**: Realizo com autonomia.
-  - **GitHub**: Realizo com autonomia.
+  - **GitHub**: Possuo autonomia para ensinar.
   - **Figma**: Possuo autonomia para ensinar.
   </details>
 
@@ -427,9 +427,9 @@ Durante o desenvolvimento, foram produzidos documentos essenciais como o manual 
   - **TypeScript**: Realizo com autonomia.
   - **JavaScript**: Realizo com autonomia.
   - **Expo**: Realizo com autonomia.
-  - **Node**: Realizo com autonomia.
+  - **Node**: Possuo autonomia para ensinar.
   - **MongoDB**: Realizo com autonomia.
-  - **GitHub**: Realizo com autonomia.
+  - **GitHub**: Possuo autonomia para ensinar.
   - **Figma**: Possuo autonomia para ensinar.
   </details>
 
