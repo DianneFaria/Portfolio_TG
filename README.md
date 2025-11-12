@@ -533,7 +533,7 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
   - **Google ADK**: Realizo com autonomia.
   - **LangChain**: Realizo com autonomia.
   - **Gemini**: Realizo com autonomia.
-  - **Vue**: Possuo autonomia para ensinar.
+  - **Vue**: Realizo com autonomia.
   - **JavaScript**: Realizo com autonomia.
   - **Postgres**: Realizo com autonomia.
   - **ChromaDB**: Realizo com autonomia.
