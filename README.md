@@ -29,9 +29,9 @@ Comecei a me interessar por tecnologia na adolescência, o que me levou a optar 
  |----|----|----|----|----|----|----|
  | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
 
-  |**Node.js**|**Java**|**Python**|**Django**|**MySQL**|**MongoDB**|
-  |----|----|----|----|----|----|
-  | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) | [![My Skills](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) |
+  |**Node.js**|**Java**|**Python**|**MySQL**|**MongoDB**|
+  |----|----|----|----|----|
+  | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) | [![My Skills](https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000) |
 
   
 ## 📂 Meus Projetos
