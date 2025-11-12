@@ -534,7 +534,7 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
   - **Vue**: Possuo autonomia para ensinar.
   - **Postgres**: Realizo com autonomia.
   - **ChromaDB**: Realizo com autonomia.
-  - **GitHub**: Realizo com autonomia.
+  - **GitHub**: Possuo autonomia para ensinar.
   - **Figma**: Possuo autonomia para ensinar.
   </details>
 
