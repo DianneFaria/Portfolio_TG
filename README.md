@@ -475,22 +475,22 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
    <details>
    <summary> 🛠️ <strong>Tecnologias Utilizadas</strong></summary>
 
-|**Spring Boot**|**Swagger**|**Flask**|
-|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/774a75fd-56e1-447c-a581-b3ac70f0a888"> | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) |
-| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Utilizado para documentar e testar os endpoints da API | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java |
-
-
-|**Google ADK**|**LangChain**|**Gemini**|**Vue**|
+|**Spring Boot**|**Flask**|**Google ADK**|**LangChain**|
 |----|----|----|----|
-| <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> | <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |  <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) |
-|  Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural | Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada | Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário |
+| [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) | <img width="52" src="https://github.com/user-attachments/assets/92cb195e-760a-4ca7-aabe-db863bd931fd"> | <img width="60" src="https://github.com/user-attachments/assets/d1ea3102-35f1-4e6c-acc8-6f2b2009596a"> |
+| Framework principal no back-end Java, responsável pela criação da API e pela gestão dos serviços e regras de negócio do sistema | Framework leve em Python utilizado para criar serviços e endpoints auxiliares voltados à comunicação entre os modelos de IA e o back-end em Java | Integrado ao projeto para explorar recursos avançados de inteligência artificial e processamento de linguagem natural | Utilizado para integrar e gerenciar o fluxo de conversação do agente inteligente, conectando modelos de linguagem e fontes de dados de forma estruturada |
 
 
-|**Postgres**|**ChromaDB**|**GitHub**|**Figma**|**Jira**|**Office**|
-|----|----|----|----|----|----|
-| [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img width="60" src="https://github.com/user-attachments/assets/add9126c-aa6a-448f-9e10-87946710eb58"> | [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
-| Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações dos usuários, planos alimentares e históricos de interação | Utilizado para armazenamento vetorial e recuperação semântica de informações, permitindo buscas inteligentes dentro da base de conhecimento nutricional | Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
+|**Gemini**|**Vue**|**Postgres**|**ChromaDB**|
+|----|----|----|----|
+| <img width="52" src="https://github.com/user-attachments/assets/19b040cc-f981-42ee-b873-4bdaafc57b9d"> | [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | <img width="60" src="https://github.com/user-attachments/assets/add9126c-aa6a-448f-9e10-87946710eb58"> |
+| Aplicado como modelo de linguagem avançado para interpretação de texto e geração de respostas naturais durante as interações com o usuário | Empregado no desenvolvimento da interface web, garantindo uma experiência interativa e responsiva para o usuário | Banco de dados relacional responsável pelo armazenamento seguro e estruturado das informações dos usuários, planos alimentares e históricos de interação | Utilizado para armazenamento vetorial e recuperação semântica de informações, permitindo buscas inteligentes dentro da base de conhecimento nutricional |
+
+
+|**GitHub**|**Figma**|**Jira**|**Office**|
+|----|----|----|----|
+| [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) | <img width="48" src="https://github.com/user-attachments/assets/1922ce3f-f6f2-42e5-964c-6bced2da9f31"> | <img width="48" src="https://github.com/user-attachments/assets/7c5c12f9-36c4-4546-9cdc-fab3edfc0227"> |
+| Utilizado para a hospedagem do código-fonte posibilitando versionamento | Utilizado para desenvolver o protótipo | Utilizado para organização das tarefas do grupo | Utilizado para construir a apresentação para o cliente |
 
    </details>
     <details>
