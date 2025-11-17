@@ -503,11 +503,11 @@ Além disso, foram produzidos documentos técnicos essenciais, como o manual do 
 
 - Desenvolvi a tela de troca de senha dentro da aplicação, considerando aspectos de segurança, experiência do usuário e consistência visual.
 
-- Participei dos ajustes visuais e funcionais na interface de login conforme as solicitações do cliente.
+- Participei dos ajustes visuais e funcionais na interface de cadastro conforme as solicitações do cliente.
+
+- Implementei na tela de login o modal de coleta do e-mail do usuário caso ele tenha esquecido a senha.
 
 - Desenvolvi o serviço responsável pela alteração de senha dentro da aplicação, permitindo que usuários atualizem suas credenciais com segurança.
-
-   Implementei no fluxo de login a coleta do e-mail do usuário caso ele tenha esquecido a senha.
 
 - Atuei no desenvolvimento do serviço de envio de e-mail para recuperação de senha, integrando lógica de autenticação e mensageria.
 
